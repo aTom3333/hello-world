@@ -4,7 +4,7 @@
 
 int main()
 {
-    std::cout << hello() << std::endl;
+    std::cout << hello() << " Yeah!" << std::endl;
     
     return 0;
 }
